@@ -2,16 +2,25 @@
   "products": [
     {
       "id": "1",
-      "name": "Hat",
-      "description": "HAt",
-      "price":"299",
-      "rating": "4"
+      "name": "Apple iPhone 13 Pro Max (256 GB) - Alpine Green",
+      "description": "17 cm (6.7-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel,Cinematic mode adds shallow depth of field and shifts focus automatically in your videos Pro camera system with new 12MP Telephoto, Wide and Ultra Wide cameras; LiDAR Scanner; 6x optical zoom range; macro photography; Photographic Styles, ProRes video, Smart HDR 4, Night mode, Apple ProRAW, 4K Dolby Vision HDR recording 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording A15 Bionic chip for lightning-fast performance Up to 28 hours of video playback, the best battery life ever in an iPhone Durable design with Ceramic Shield",
+      "price":"130900",
+      "rating": "4.7",
+      "img": "https://m.media-amazon.com/images/I/611ovP2GkrL._SL1500_.jpg"
     },{
       "id": "2",
-      "name": "Hat 2",
-      "description": "HAt 2",
-      "price":"399",
-      "rating": "3"
+      "name": "boAt Rockerz 550",
+      "description": "Tap into instant wireless connectivity with the latest Bluetooth V5.0, Its 50mm dynamic drivers help pump out immersive audio all day long, The mighty 500mAh battery capacity offers a superior playback time of up to 20 Hours, Charging Time : 2.5 hours, Standby Time : 180 hours, Frequency Response 20Hz-20KHz",
+      "price":"1799",
+      "rating": "4.1",
+      "img": "https://m.media-amazon.com/images/I/61gYxcIGjvL._SL1500_.jpg"
+    },{
+      "id": "3",
+      "name": "Dell New XPS 9305",
+      "description": "i7-1165G7 Processor: 2.8 Ghz Base Speed, 16GB LPDDR4, 512GB SSD, WIN 10 + Office H&S 2019, INTEGRATED Graphics Card, 13.3 inch FHD WVA Infinity Edge & Backlit Keyboard + Fingerprint Reader, 2x Thunderbolt 4 (DisplayPort / Power Delivery), 1x USB 3.2 Gen 2 Type-C (DisplayPort / Power Delivery), 1 microSD card reader, 1 3.5mm headphone/microphone combo jack, 1 wedge-shaped lock slot",
+      "price":"1799",
+      "rating": "4.1",
+      "img": "https://m.media-amazon.com/images/I/51svzWk0+yL._SX679_.jpg"
     }
   ]
 }
