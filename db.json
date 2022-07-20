@@ -12,15 +12,36 @@
       "name": "boAt Rockerz 550",
       "description": "Tap into instant wireless connectivity with the latest Bluetooth V5.0, Its 50mm dynamic drivers help pump out immersive audio all day long, The mighty 500mAh battery capacity offers a superior playback time of up to 20 Hours, Charging Time : 2.5 hours, Standby Time : 180 hours, Frequency Response 20Hz-20KHz",
       "price":"1799",
-      "rating": "4.1",
+      "rating": "4.5",
       "img": "https://m.media-amazon.com/images/I/61gYxcIGjvL._SL1500_.jpg"
     },{
       "id": "3",
       "name": "Dell New XPS 9305",
       "description": "i7-1165G7 Processor: 2.8 Ghz Base Speed, 16GB LPDDR4, 512GB SSD, WIN 10 + Office H&S 2019, INTEGRATED Graphics Card, 13.3 inch FHD WVA Infinity Edge & Backlit Keyboard + Fingerprint Reader, 2x Thunderbolt 4 (DisplayPort / Power Delivery), 1x USB 3.2 Gen 2 Type-C (DisplayPort / Power Delivery), 1 microSD card reader, 1 3.5mm headphone/microphone combo jack, 1 wedge-shaped lock slot",
-      "price":"1799",
+      "price":"110000",
       "rating": "4.1",
       "img": "https://m.media-amazon.com/images/I/51svzWk0+yL._SX679_.jpg"
+    },{
+      "id": "4",
+      "name": "Noise ColorFit Pulse Grand Smart Watch",
+      "description": "1.69 inch grand display: Get the rich immersive viewing experience on the 1.69 inch LCD display.60 sports modes: Take your pick from a wide range of 60 sports modes.Instant charge: Now enjoy more than a day’s worth/25 hours of battery in just 15 minutes of charge. Battery Capacity: 260 mAh, 150+ cloud-based & customisable watch faces: Choose from 150+ cloud-based and customisable watch faces and change your look to suit your outfit.Noise Health suite: Get valuable insights about your health from Noise Health Suite featuring 24*7 heart rate, stress, blood oxygen, sleep monitor and menstrual cycle tracking.",
+      "price":"1599",
+      "rating": "3.8",
+      "img": "https://m.media-amazon.com/images/I/61RYmov6UML._SY450_.jpg"
+    },{
+      "id": "5",
+      "name": "Croma 43 Inches 4K Ultra HD Certified Android Smart LED TV",
+      "description": "Resolution: 4K Ultra HD (3840x2160) | Refresh Rate: 60 Hertz, Connectivity: 3 HDMI Ports to connect set top box, Blu Ray players, gaming console | 2 USB Ports to connect hard drives and other USB devices | 1 AV Input Slot | 1 RF Slot, Sound: 10 Watts Output | Dolby Audio, Display: A+ Grade Panel with One Year Zero Dot Warranty | 178 Degree Wide Viewing Angle, Smart TV Features: Certified Android 10 OS | In-Built Wi-Fi | Screen Mirroring | 2GB RAM | 8GB ROM | Supported Apps: Netflix, Prime Video, Youtube, Disney+Hotstar",
+      "price":"26990",
+      "rating": "3.6",
+      "img": "https://m.media-amazon.com/images/I/619bB9J+j+L._SY450_.jpg"
+    },{
+      "id": "6",
+      "name": "AmazonBasics 564 L Side-by-Side Door Refrigerator",
+      "description": "Side-by-side refrigerator with Water Dispenser and Auto Defrost technology that prevents excess ice build up automatically, 564 L gross capacity: Suitable for the daily requirements of a family with 5 or more members; Please note that Left side of the refrigerator is Freezer & right side is regular Fridge",
+      "price":"48499",
+      "rating": "4.2",
+      "img": "https://m.media-amazon.com/images/I/71fa4e1KQsL._SL1500_.jpg"
     }
   ]
 }
