@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Hat",
+      "description": "HAt",
+      "price":"299",
+      "rating": "4"
+    },{
+      "id": "2",
+      "name": "Hat 2",
+      "description": "HAt 2",
+      "price":"399",
+      "rating": "3"
+    }
+  ]
+}
